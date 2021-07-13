@@ -1,3 +1,3 @@
 # REPO-01
 
-Pagina con amigos
+Me gustaria hacer una pagina para hablar con amigos
