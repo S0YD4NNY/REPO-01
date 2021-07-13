@@ -1,3 +1,3 @@
 # REPO-01
 
-Me gustaria hacer una pagina para hablar con amigos
+Me gustaria hacer una pagina para hablar con amigos y pasarmela bien
